@@ -4,4 +4,5 @@
      echo '<tr><td>titre</td><td>description</td></tr>' ;
      echo '<tr><td>titre</td><td>description</td></tr>' ;
      echo '</table>' ;
+     echo '<br>';
 ?>
