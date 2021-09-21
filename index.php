@@ -7,4 +7,11 @@
      echo '<br>';
      Oh non!
 ?>
+<<<<<<< HEAD
 ttttt
+=======
+yes i did it!!
+Quoi!
+enfin
+pppp
+>>>>>>> a1d8444b70490e23df07ac2c23c8e9d66ac1fcb8
