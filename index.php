@@ -6,6 +6,4 @@
      echo '</table>' ;
      echo '<br>';
 ?>
-conflit 2
-test
-
+yes i did it!!
