@@ -5,4 +5,5 @@
      echo '<tr><td>titre 1</td><td>description du titre 1</td></tr>' ;
      echo '</table>' ;
      echo '<br>';
+     Oh non!
 ?>
