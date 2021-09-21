@@ -7,6 +7,4 @@
      echo '<br>';
      Oh non!
 ?>
-yes i did it!!
-Quoi!
-enfin
+ttttt
